@@ -17,5 +17,5 @@
 
 ## 개인 프로젝트
 
-### JercyProjectMaster
+### 위키피디아 검색 앱
 https://github.com/kiljh-me/WikipediaSurfer
