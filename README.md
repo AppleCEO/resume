@@ -13,6 +13,12 @@
     - 블로그 링크 모음 앱
 
 - [발표](https://github.com/kiljh-me/resume#발표)
+    - 코드스쿼드에서 ARC 발표
+    - 코드스쿼드에서 옵저버 패턴 발표
+    - RxSwift 온라인 스터디에서 변환 연산자 발표
+    - RxSwift 오프라인 스터디와 온라인 스터디에서 에러 핸들링 발표
+    - RxSwift 오프라인 스터디와 온라인 스터디에서 RxMVVM 발표
+    - DDD 동아리에서 coreML Vision 예제 라이브 코딩
 
 <br>
 <br>
