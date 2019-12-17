@@ -20,7 +20,7 @@
     - RxSwift 오프라인 스터디와 온라인 스터디에서 RxMVVM 발표
     - DDD 동아리에서 coreML Vision 예제 라이브 코딩
 
-- [스터디]
+- 스터디
     - [StartRxSwift](https://github.com/start-rxswift/Introduce) 스터디 운영
     - [SwiftAlgorithmClub](https://github.com/SwiftAlgorithmClub/DailyAlgorithm) 매일 알고리즘 문제 출제
 
