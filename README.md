@@ -11,6 +11,7 @@
 - [개인 프로젝트](https://github.com/kiljh-me/resume#개인-프로젝트)
     - WikipediaSurfer
     - 블로그 링크 모음 앱
+    - 백패커 과제
 
 - [발표](https://github.com/kiljh-me/resume#발표)
     - 코드스쿼드에서 ARC 발표
@@ -69,7 +70,7 @@ https://github.com/kiljh-me/swift-pokergameapp
 ## 개인 프로젝트
 
 ### 위키피디아 검색 앱
-https://github.com/kiljh-me/WikipediaSurfer
+https://github.com/AppleCEO-me/WikipediaSurfer
 
 ![](/images/WikipediaSurfer.gif)
 
@@ -77,6 +78,10 @@ https://github.com/kiljh-me/WikipediaSurfer
 https://github.com/AppleCEO/codesquad-blog-collection
 
 ![](https://github.com/AppleCEO/codesquad-blog-collection/blob/master/playiOS.gif)
+
+### 위키피디아 검색 앱
+https://github.com/AppleCEO-me/Backpacr
+![](/images/Backpacr.gif)
 
 ## 발표
 
