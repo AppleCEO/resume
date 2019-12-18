@@ -81,6 +81,7 @@ https://github.com/AppleCEO/codesquad-blog-collection
 
 ### 백패커 과제
 https://github.com/AppleCEO-me/Backpacr
+
 ![](/images/Backpacr.gif)
 
 ## 발표
