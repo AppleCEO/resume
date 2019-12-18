@@ -79,7 +79,7 @@ https://github.com/AppleCEO/codesquad-blog-collection
 
 ![](https://github.com/AppleCEO/codesquad-blog-collection/blob/master/playiOS.gif)
 
-### 위키피디아 검색 앱
+### 백패커 과제
 https://github.com/AppleCEO-me/Backpacr
 ![](/images/Backpacr.gif)
 
