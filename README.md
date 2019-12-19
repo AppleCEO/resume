@@ -33,12 +33,12 @@
 ## 코드스쿼드 프로젝트
 
 ### 쇼핑 앱
-https://github.com/AppleCEO/swift-storeapp/blob/kiljh-me
+https://github.com/AppleCEO/swift-storeapp/blob/appleceo
 
 ![](https://github.com/AppleCEO/swift-storeapp/blob/kiljh-me/storeApp2.png)
 
 ### 웹뷰 앱
-https://github.com/AppleCEO/swift-webviewapp/tree/kiljh-me
+https://github.com/AppleCEO/swift-webviewapp/tree/appleceo
 
 ![](https://github.com/AppleCEO/swift-webviewapp/blob/kiljh-me/webview3.png)
 
