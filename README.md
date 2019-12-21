@@ -80,7 +80,7 @@ https://github.com/AppleCEO/codesquad-blog-collection
 ![](https://github.com/AppleCEO/codesquad-blog-collection/blob/master/playiOS.gif)
 
 ### 백패커 과제
-https://github.com/AppleCEO-me/Backpacr
+https://github.com/AppleCEO/Backpacr
 
 ![](/images/Backpacr.gif)
 
