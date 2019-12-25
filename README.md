@@ -33,7 +33,7 @@
 ## 코드스쿼드 프로젝트
 
 ### 쇼핑 앱
-https://github.com/AppleCEO/swift-storeapp/blob/appleceo
+https://github.com/AppleCEO/swift-storeapp/tree/store-step3
 
 ![](https://github.com/AppleCEO/swift-storeapp/blob/kiljh-me/storeApp2.png)
 
