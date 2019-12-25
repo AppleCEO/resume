@@ -70,7 +70,7 @@ https://github.com/kiljh-me/swift-pokergameapp
 ## 개인 프로젝트
 
 ### 위키피디아 검색 앱
-https://github.com/AppleCEO-me/WikipediaSurfer
+https://github.com/AppleCEO/WikipediaSurfer
 
 ![](/images/WikipediaSurfer.gif)
 
