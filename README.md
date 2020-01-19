@@ -87,12 +87,13 @@ https://github.com/AppleCEO/Backpacr
 ## 발표
 
 ### 코드스쿼드에서 ARC 발표
-[슬라이드](https://www.slideshare.net/joonjhokil/arc-149195450)
 [유튜브](https://www.youtube.com/watch?v=f0Ci9G51pJg)
+[슬라이드](https://www.slideshare.net/joonjhokil/arc-149195450)
+
 
 ### 코드스쿼드에서 옵저버 패턴 발표
-[슬라이드](https://www.slideshare.net/joonjhokil/observer-pattern-152125284)
 [유튜브](https://www.youtube.com/watch?v=sVxmIw1M-4A)
+[슬라이드](https://www.slideshare.net/joonjhokil/observer-pattern-152125284)
 
 ### RxSwift 온라인 스터디에서 변환 연산자 발표
 [슬라이드](https://www.slideshare.net/joonjhokil/rxswift-transforming-operators)
@@ -106,3 +107,7 @@ https://github.com/AppleCEO/Backpacr
 ### DDD 동아리에서 coreML Vision 예제 라이브 코딩
 [유튜브1](https://www.youtube.com/watch?v=Eq4z4brcWHQ&t=36s)
 [유튜브2](https://www.youtube.com/watch?v=-Q5YEr56cKs)
+
+### 사당 스터디 모임에서 Queue 발표
+[유튜브](https://youtu.be/icw6Kq5Xs3M)
+[슬라이드](https://www.slideshare.net/joonjhokil/queue-in-swift-220577719)
