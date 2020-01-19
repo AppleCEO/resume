@@ -104,5 +104,5 @@ https://github.com/AppleCEO/Backpacr
 [슬라이드](https://www.slideshare.net/joonjhokil/rx-mvvm)
 
 ### DDD 동아리에서 coreML Vision 예제 라이브 코딩
-[유튜브](https://www.youtube.com/watch?v=Eq4z4brcWHQ&t=36s)
-[유튜브](https://www.youtube.com/watch?v=-Q5YEr56cKs)
+[유튜브1](https://www.youtube.com/watch?v=Eq4z4brcWHQ&t=36s)
+[유튜브2](https://www.youtube.com/watch?v=-Q5YEr56cKs)
