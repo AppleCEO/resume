@@ -1,4 +1,16 @@
 ## 목차
+- [발표](https://github.com/kiljh-me/resume#발표)
+    - 코드스쿼드에서 ARC 발표
+    - 코드스쿼드에서 옵저버 패턴 발표
+    - RxSwift 온라인 스터디에서 변환 연산자 발표
+    - RxSwift 오프라인 스터디와 온라인 스터디에서 에러 핸들링 발표
+    - RxSwift 오프라인 스터디와 온라인 스터디에서 RxMVVM 발표
+    - DDD 동아리에서 coreML Vision 예제 라이브 코딩
+
+- 스터디
+    - [StartRxSwift](https://github.com/start-rxswift/Introduce) 스터디 운영
+    - [SwiftAlgorithmClub](https://github.com/SwiftAlgorithmClub/DailyAlgorithm) 매일 알고리즘 문제 출제
+    
 - [코드스쿼드 프로젝트](https://github.com/kiljh-me/resume#코드스쿼드-프로젝트)
     - 쇼핑 앱
     - 웹뷰 앱
@@ -13,21 +25,39 @@
     - 블로그 링크 모음 앱
     - 백패커 과제
 
-- [발표](https://github.com/kiljh-me/resume#발표)
-    - 코드스쿼드에서 ARC 발표
-    - 코드스쿼드에서 옵저버 패턴 발표
-    - RxSwift 온라인 스터디에서 변환 연산자 발표
-    - RxSwift 오프라인 스터디와 온라인 스터디에서 에러 핸들링 발표
-    - RxSwift 오프라인 스터디와 온라인 스터디에서 RxMVVM 발표
-    - DDD 동아리에서 coreML Vision 예제 라이브 코딩
 
-- 스터디
-    - [StartRxSwift](https://github.com/start-rxswift/Introduce) 스터디 운영
-    - [SwiftAlgorithmClub](https://github.com/SwiftAlgorithmClub/DailyAlgorithm) 매일 알고리즘 문제 출제
 
 
 <br>
 <br>
+
+## 발표
+
+### 코드스쿼드에서 ARC 발표
+[유튜브](https://www.youtube.com/watch?v=f0Ci9G51pJg)
+[슬라이드](https://www.slideshare.net/joonjhokil/arc-149195450)
+
+
+### 코드스쿼드에서 옵저버 패턴 발표
+[유튜브](https://www.youtube.com/watch?v=sVxmIw1M-4A)
+[슬라이드](https://www.slideshare.net/joonjhokil/observer-pattern-152125284)
+
+### RxSwift 온라인 스터디에서 변환 연산자 발표
+[슬라이드](https://www.slideshare.net/joonjhokil/rxswift-transforming-operators)
+
+### RxSwift 오프라인 스터디와 온라인 스터디에서 에러 핸들링 발표
+[슬라이드](https://www.slideshare.net/joonjhokil/error-handling-183424180)
+
+### RxSwift 오프라인 스터디와 온라인 스터디에서 RxMVVM 발표
+[슬라이드](https://www.slideshare.net/joonjhokil/rx-mvvm)
+
+### DDD 동아리에서 coreML Vision 예제 라이브 코딩
+[유튜브1](https://www.youtube.com/watch?v=Eq4z4brcWHQ&t=36s)
+[유튜브2](https://www.youtube.com/watch?v=-Q5YEr56cKs)
+
+### 사당 스터디 모임에서 Queue 발표
+[유튜브](https://youtu.be/icw6Kq5Xs3M)
+[슬라이드](https://www.slideshare.net/joonjhokil/queue-in-swift-220577719)
 
 # 프로젝트
 ## 코드스쿼드 프로젝트
@@ -84,30 +114,4 @@ https://github.com/AppleCEO/Backpacr
 
 ![](/images/Backpacr.gif)
 
-## 발표
 
-### 코드스쿼드에서 ARC 발표
-[유튜브](https://www.youtube.com/watch?v=f0Ci9G51pJg)
-[슬라이드](https://www.slideshare.net/joonjhokil/arc-149195450)
-
-
-### 코드스쿼드에서 옵저버 패턴 발표
-[유튜브](https://www.youtube.com/watch?v=sVxmIw1M-4A)
-[슬라이드](https://www.slideshare.net/joonjhokil/observer-pattern-152125284)
-
-### RxSwift 온라인 스터디에서 변환 연산자 발표
-[슬라이드](https://www.slideshare.net/joonjhokil/rxswift-transforming-operators)
-
-### RxSwift 오프라인 스터디와 온라인 스터디에서 에러 핸들링 발표
-[슬라이드](https://www.slideshare.net/joonjhokil/error-handling-183424180)
-
-### RxSwift 오프라인 스터디와 온라인 스터디에서 RxMVVM 발표
-[슬라이드](https://www.slideshare.net/joonjhokil/rx-mvvm)
-
-### DDD 동아리에서 coreML Vision 예제 라이브 코딩
-[유튜브1](https://www.youtube.com/watch?v=Eq4z4brcWHQ&t=36s)
-[유튜브2](https://www.youtube.com/watch?v=-Q5YEr56cKs)
-
-### 사당 스터디 모임에서 Queue 발표
-[유튜브](https://youtu.be/icw6Kq5Xs3M)
-[슬라이드](https://www.slideshare.net/joonjhokil/queue-in-swift-220577719)
