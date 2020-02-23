@@ -8,8 +8,8 @@
     - DDD 동아리에서 coreML Vision 예제 라이브 코딩
 
 - 스터디
-    - [StartRxSwift](https://github.com/start-rxswift/Introduce) 스터디 운영
-    - [SwiftAlgorithmClub](https://github.com/SwiftAlgorithmClub/DailyAlgorithm) 매일 알고리즘 문제 출제
+    - [StartRxSwift](https://github.com/start-rxswift/Introduce) 스터디 운영 
+    - [SwiftAlgorithmClub](https://github.com/SwiftAlgorithmClub/DailyAlgorithm) 알고리즘 문제 출제
     
 - [코드스쿼드 프로젝트](https://github.com/kiljh-me/resume#코드스쿼드-프로젝트)
     - 쇼핑 앱
