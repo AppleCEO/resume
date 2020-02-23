@@ -23,9 +23,8 @@
 - [개인 프로젝트](https://github.com/kiljh-me/resume#개인-프로젝트)
     - WikipediaSurfer
     - 블로그 링크 모음 앱
-    - 백패커 과제
-
-
+    - 아이디어스 카피앱
+    - 위피 카피앱
 
 
 <br>
@@ -109,9 +108,12 @@ https://github.com/AppleCEO/codesquad-blog-collection
 
 ![](https://github.com/AppleCEO/codesquad-blog-collection/blob/master/playiOS.gif)
 
-### 백패커 과제
+### 아이디어스 copy app
 https://github.com/AppleCEO/Backpacr
 
 ![](/images/Backpacr.gif)
 
+### Wippy copy app
+https://github.com/AppleCEO/Wippy
 
+![](/images/Wippy.gif)
