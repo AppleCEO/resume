@@ -20,7 +20,7 @@
     - 카드게임 앱
     - 포커게임 앱
 
-- [개인 프로젝트](https://github.com/kiljh-me/resume#개인-프로젝트)
+- 개인 프로젝트
     - WikipediaSurfer
     - 블로그 링크 모음 앱
     - 아이디어스 카피앱
