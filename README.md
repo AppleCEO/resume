@@ -10,6 +10,7 @@
 - 스터디
     - [StartRxSwift](https://github.com/start-rxswift/Introduce) 스터디 운영 
     - [SwiftAlgorithmClub](https://github.com/SwiftAlgorithmClub/DailyAlgorithm) 알고리즘 문제 출제
+    - [사당 스위프트 스터디](https://github.com/iO3S/DataStructures-Algorithm) 스터디 참여
     
 - [코드스쿼드 프로젝트](https://github.com/kiljh-me/resume#코드스쿼드-프로젝트)
     - 쇼핑 앱
