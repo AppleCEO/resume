@@ -1,3 +1,8 @@
+# 이력서
+https://www.notion.so/Dominic-9bc62435524b4d8e9f56a18492d76408
+
+# 포트폴리오
+
 ## 목차
 - [발표](https://github.com/kiljh-me/resume#발표)
     - 코드스쿼드에서 ARC 발표
