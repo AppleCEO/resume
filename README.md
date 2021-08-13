@@ -1,5 +1,5 @@
 # 이력서
-https://www.notion.so/Dominic-9bc62435524b4d8e9f56a18492d76408
+[링크](https://www.notion.so/Dominic-9bc62435524b4d8e9f56a18492d76408)
 
 # 포트폴리오
 
