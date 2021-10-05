@@ -66,12 +66,6 @@
 
 # 프로젝트
 ## 회사 프로젝트
-### 세차왕 매니저앱(2020.12 ~ )
-  > 세차 매니저 분들의 일정 확인 및 진행 상황 처리용
-  > iOS 개발 담당
-
-  - Swift
-  - Storyboard
 
 ### 마음감기(2020.02 ~ 2020.05)
 https://apps.apple.com/kr/app/마음감기/id1548185204
@@ -80,7 +74,23 @@ https://apps.apple.com/kr/app/마음감기/id1548185204
   
   - Swift
   - Snapkit
-  - Alamofire, Kingfisher 등
+  - Alamofire, Kingfisher, NaverMap 등
+
+### 세차왕 매니저앱(2020.12 ~ )
+  > 세차 매니저 분들의 일정 확인 및 진행 상황 처리용 네이티브앱 개발
+  > iOS 개발 담당
+
+  - Swift
+  - Storyboard
+
+### 세차왕 고객앱(2020.09 ~ )
+  > 세차 고객 분들으 주문 예약 앱 개발
+  > 웹뷰, iOS 개발
+
+  - Objective-C
+  - Storyboard
+  - Google Login, Facebook Login, Apple Login, Google Map 등
+
 
 ## 코드스쿼드 프로젝트
 
