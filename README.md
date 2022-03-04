@@ -68,15 +68,10 @@
 ## 회사 프로젝트
 
 ### 하우스앱(2021.12 ~ )
-
-### 마음감기(2020.02 ~ 2020.05)
-https://apps.apple.com/kr/app/마음감기/id1548185204
-  > 마음 진단 및 정신과 병원 추천 앱
-  > iOS 개발 담당
-  
-  - Swift
-  - Snapkit
-  - Alamofire, Kingfisher, NaverMap 등
+https://apps.apple.com/kr/app/하우스앱-일상을-아름답게/id1000571054
+  > 스크래 기능 개발
+  > Stoekit 을 이용해 앱 평점 입력 개발
+  > 백그라운드 진입 후 일정 시간 이후에 앱을 다시 실행했을 때 재갱신 기능 추가
 
 ### 세차왕 매니저앱(2020.12 ~ 2021.12)
   > 세차 매니저 분들의 일정 확인 및 진행 상황 처리용 네이티브앱 개발
@@ -94,6 +89,14 @@ https://apps.apple.com/kr/app/마음감기/id1548185204
   - Storyboard
   - Google Login, Facebook Login, Apple Login, Google Map 등
 
+### 마음감기(2020.02 ~ 2020.05)
+https://apps.apple.com/kr/app/마음감기/id1548185204
+  > 마음 진단 및 정신과 병원 추천 앱
+  > iOS 개발 담당
+  
+  - Swift
+  - Snapkit
+  - Alamofire, Kingfisher, NaverMap 등
 
 ## 코드스쿼드 프로젝트
 
