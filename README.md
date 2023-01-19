@@ -42,7 +42,6 @@ https://apps.apple.com/kr/app/하우스앱-일상을-아름답게/id1000571054
   - Google Login, Facebook Login, Apple Login, Google Map 등
 
 ### 마음감기(2020.02 ~ 2020.05)
-https://apps.apple.com/kr/app/마음감기/id1548185204
   > 마음 진단 및 정신과 병원 추천 앱
   
   > iOS 개발 담당
