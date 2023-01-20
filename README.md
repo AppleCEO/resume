@@ -9,7 +9,7 @@
 
 회사 기술 블로그 개설(생체 인증 정리 글 : https://velog.io/@paywatchkorea/iOS-생체-인증을-사용해서-사용자-인증하기)
 
-네이티브 앱 리뉴얼 버전 개발 중(SwiftUI)
+앱 리뉴얼 버전 개발 중(SwiftUI)
 
 ### 하우스앱(2021.12 ~ 2022.07)
 https://apps.apple.com/kr/app/하우스앱-일상을-아름답게/id1000571054
