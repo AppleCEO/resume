@@ -5,6 +5,7 @@
 ## 회사 프로젝트
 
 ### 페이워치코리아(2022.08 ~)
+https://apps.apple.com/kr/app/페이워치-paywatch-korea/id1463923256
 페이워치 앱에 인출하기에서 기존 비밀번호 입력에 추가로 생체인증 기능 추가
 
 회사 기술 블로그 개설(생체 인증 정리 글 : https://velog.io/@paywatchkorea/iOS-생체-인증을-사용해서-사용자-인증하기)
