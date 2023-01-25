@@ -57,7 +57,7 @@ https://apps.apple.com/kr/app/하우스앱-일상을-아름답게/id1000571054
 ### 쇼핑 앱
 https://github.com/AppleCEO/swift-storeapp/tree/store-step3
 
-![](https://github.com/AppleCEO/swift-storeapp/blob/kiljh-me/storeApp2.png)
+![](https://github.com/AppleCEO/swift-storeapp/blob/kiljh-me/storeApp2.png | width=300)
 
 ### 웹뷰 앱
 https://github.com/AppleCEO/swift-webviewapp/tree/appleceo
