@@ -63,7 +63,6 @@ https://github.com/AppleCEO/swift-storeapp/tree/store-step3
 https://github.com/AppleCEO/swift-webviewapp/tree/appleceo
 
 <img src = "https://github.com/AppleCEO/swift-webviewapp/blob/kiljh-me/webview3.png" width="30%">
-//![](https://github.com/AppleCEO/swift-webviewapp/blob/kiljh-me/webview3.png)
 
 ### 전화번호부 앱
 https://github.com/AppleCEO/swift-addressbookapp
