@@ -67,7 +67,7 @@ https://github.com/AppleCEO/swift-webviewapp/tree/appleceo
 ### 전화번호부 앱
 https://github.com/AppleCEO/swift-addressbookapp
 
-![](https://github.com/AppleCEO/swift-addressbookapp/blob/master/addressbook3.png)
+<img src = "https://github.com/AppleCEO/swift-addressbookapp/blob/master/addressbook3.png" width="30%">
 
 ### 날씨 앱
 https://github.com/AppleCEO/swift-weatherapp
