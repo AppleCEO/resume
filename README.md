@@ -72,7 +72,7 @@ https://github.com/AppleCEO/swift-addressbookapp
 ### 날씨 앱
 https://github.com/AppleCEO/swift-weatherapp
 
-![](https://github.com/AppleCEO/swift-weatherapp/blob/master/weather3.png)
+<img src = "https://github.com/AppleCEO/swift-weatherapp/blob/master/weather3.png" width="30%">
 
 ### 자판기 앱
 https://github.com/AppleCEO/swift-vendingmachineapp
