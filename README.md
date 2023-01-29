@@ -77,7 +77,7 @@ https://github.com/AppleCEO/swift-weatherapp
 ### 자판기 앱
 https://github.com/AppleCEO/swift-vendingmachineapp
 
-![](https://github.com/AppleCEO/swift-vendingmachineapp/blob/master/vendingMachine.gif)
+<img src = "https://github.com/AppleCEO/swift-vendingmachineapp/blob/master/vendingMachine.gif" width="30%">
 
 ### 카드게임 앱
 https://github.com/AppleCEO/swift-cardgameapp
