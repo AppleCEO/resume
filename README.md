@@ -82,7 +82,7 @@ https://github.com/AppleCEO/swift-vendingmachineapp
 ### 카드게임 앱
 https://github.com/AppleCEO/swift-cardgameapp
 
-![](https://github.com/AppleCEO/swift-cardgameapp/blob/master/play.gif)
+<img src = "https://github.com/AppleCEO/swift-cardgameapp/blob/master/play.gif" width="30%">
 
 ### 포커게임 앱
 https://github.com/kiljh-me/swift-pokergameapp
