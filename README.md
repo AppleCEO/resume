@@ -87,7 +87,7 @@ https://github.com/AppleCEO/swift-cardgameapp
 ### 포커게임 앱
 https://github.com/kiljh-me/swift-pokergameapp
 
-![](https://github.com/kiljh-me/swift-pokergameapp/blob/master/pokerGame.gif)
+<img src = "https://github.com/kiljh-me/swift-pokergameapp/blob/master/pokerGame.gif" width="30%">
 
 ## 개인 프로젝트
 
