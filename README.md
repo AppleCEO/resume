@@ -99,7 +99,7 @@ https://github.com/AppleCEO/WikipediaSurfer
 ### 블로그 링크 모음 앱
 https://github.com/AppleCEO/codesquad-blog-collection
 
-![](https://github.com/AppleCEO/codesquad-blog-collection/blob/master/playiOS.gif)
+<img src = "https://github.com/AppleCEO/codesquad-blog-collection/blob/master/playiOS.gif" width="30%">
 
 ### 아이디어스 copy app
 https://github.com/AppleCEO/Backpacr
