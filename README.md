@@ -104,7 +104,7 @@ https://github.com/AppleCEO/codesquad-blog-collection
 ### 아이디어스 copy app
 https://github.com/AppleCEO/Backpacr
 
-![](/images/Backpacr.gif)
+<img src = "/images/Backpacr.gif" width="30%">
 
 ### Wippy copy app
 https://github.com/AppleCEO/Wippy
