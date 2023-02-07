@@ -109,7 +109,7 @@ https://github.com/AppleCEO/Backpacr
 ### Wippy copy app
 https://github.com/AppleCEO/Wippy
 
-![](/images/Wippy.gif)
+<img src = "/images/Wippy.gif" width="30%">
 
 # 포트폴리오
 
