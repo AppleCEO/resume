@@ -146,7 +146,7 @@ https://github.com/AppleCEO/Wippy
 <br>
 <br>
 
-## 발표
+## 강의, 발표
 
 ### 코드스쿼드에서 ARC 발표
 [유튜브](https://www.youtube.com/watch?v=f0Ci9G51pJg)
