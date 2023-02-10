@@ -148,6 +148,9 @@ https://github.com/AppleCEO/Wippy
 
 ## 강의, 발표
 
+### 클래스101 입문자 iOS 개발 강의 제작
+https://class101.net/classic/classes/624b8f1b7329cd00154a79c7/lectures/6252dee9934464000ed505e1?
+
 ### 코드스쿼드에서 ARC 발표
 [유튜브](https://www.youtube.com/watch?v=f0Ci9G51pJg)
 [슬라이드](https://www.slideshare.net/joonjhokil/arc-149195450)
