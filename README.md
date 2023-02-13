@@ -1,5 +1,4 @@
-# 이력서
-[노션](https://www.notion.so/Dominic-9bc62435524b4d8e9f56a18492d76408)
+# [이력서](https://www.notion.so/Dominic-9bc62435524b4d8e9f56a18492d76408)
 
 # 프로젝트
 ## 회사 프로젝트
