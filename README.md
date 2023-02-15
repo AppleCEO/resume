@@ -122,7 +122,7 @@ https://github.com/AppleCEO/Wippy
     - RxSwift 오프라인 스터디와 온라인 스터디에서 에러 핸들링 발표
     - RxSwift 오프라인 스터디와 온라인 스터디에서 RxMVVM 발표
     - DDD 동아리에서 coreML Vision 예제 라이브 코딩
-    - LetusGo에서 <열거형을 활용하는 열가지 방법> 발표
+    - iOS 컨퍼런스LetusGo에서 <열거형을 활용하는 열가지 방법> 발표
 
 - 스터디
     - [StartRxSwift](https://github.com/start-rxswift/Introduce) 스터디 운영 
