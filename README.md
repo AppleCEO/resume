@@ -40,7 +40,7 @@ https://apps.apple.com/kr/app/하우스앱-일상을-아름답게/id1000571054
   > 웹뷰, iOS 개발
 
   - Objective-C
-  - UIKit
+  - UIKit, UIWWebview
   - Storyboard
   - Google Login, Facebook Login, Apple Login, Google Map 등
 
