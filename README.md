@@ -115,7 +115,7 @@ https://github.com/AppleCEO/Wippy
 # 포트폴리오
 
 ## 목차
-- [발표](https://github.com/kiljh-me/resume#발표)
+- 발표
     - 코드스쿼드에서 ARC 발표
     - 코드스쿼드에서 옵저버 패턴 발표
     - RxSwift 온라인 스터디에서 변환 연산자 발표
