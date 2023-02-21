@@ -139,13 +139,6 @@ https://github.com/AppleCEO/Wippy
     - 카드게임 앱
     - 포커게임 앱
 
-- 개인 프로젝트
-    - WikipediaSurfer
-    - 블로그 링크 모음 앱
-    - 아이디어스 카피앱
-    - 위피 카피앱
-
-
 <br>
 <br>
 
